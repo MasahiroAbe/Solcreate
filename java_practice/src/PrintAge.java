@@ -1,4 +1,4 @@
-// 年齢出力クラス
+﻿// 年齢出力クラス
 public class PrintAge {
 	// メインメソッド
 	public static void main(String[] args) {
@@ -7,7 +7,7 @@ public class PrintAge {
 		// 文字列では計算出来ないので数値に変換
 		int birthYear = Integer.parseInt(strBirthYear);
 		// 年齢を計算　→2
-		int age = 2014 - birthYear;
+		int age = 2017 - birthYear;
 
 		// 誕生年を出力　→3
 		System.out.println("貴方の誕生年は " + birthYear + " です。");

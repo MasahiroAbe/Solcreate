@@ -9,7 +9,7 @@ public class 勇者 {
 		～ 略 ～
 	}
 
-	public void じゅもん() {
+	public void ぼうぎょ() {
 		～ 略 ～
 	}
 
